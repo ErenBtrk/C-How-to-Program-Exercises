@@ -1,0 +1,5 @@
+HesapNoIsim            Soyisim          Borc
+100   metin           zavrak         348.17
+300   huseyin         karaca          27.19
+500   ekrem           aksoy            0.00
+700   gul             erkal          -14.22

@@ -1,0 +1,6 @@
+HspNo Soyisim         Isim           Bakiye
+2     ali             veli          1000.00
+3     isa             musa          2000.00
+4     ayse            fatma         3000.00
+8     busra           busra         2524.00
+64                                     0.00

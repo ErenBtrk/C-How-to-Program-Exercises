@@ -1,0 +1,5 @@
+Soyisim  Isim  Yas
+kevin  durant  10
+kawhi  leonard  12
+michael  jordan  23
+anthony  davis  14
